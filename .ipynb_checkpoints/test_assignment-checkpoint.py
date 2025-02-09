@@ -1,9 +1,9 @@
 import io
 import sys
-import pytest # type: ignore
+import pytest
 # import assignment  # Assumes the student's solution is in assignment.py
 
-import nbconvert # type: ignore
+import nbconvert
 import io
 
 def notebook_to_python(notebook_path):
